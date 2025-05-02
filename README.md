@@ -17,8 +17,8 @@ El programa entrena un modelo con un conjunto de datos en formato CSV (separado 
 
 1. **Clona este repositorio**:
    ```bash
-   git clone https://github.com/ehm435/clasificador-comentarios-producto.git
-   cd clasificador-comentarios-producto
+   git clone https://github.com/ehm435/comment-classifier.git
+   cd comment-classifier
    ```
 
 2. **Instala las dependencias**:
